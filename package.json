@@ -1,0 +1,15 @@
+{
+  "name": "realmeet.sdk",
+  "version": "1.0.0",
+  "description": "Shared typescript libraries for realmeet.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "yeisonarango03@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
