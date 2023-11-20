@@ -1,6 +1,6 @@
 {
   "name": "realmeet.sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared typescript libraries for realmeet.app",
   "main": "index.js",
   "scripts": {
