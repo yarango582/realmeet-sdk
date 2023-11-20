@@ -1,6 +1,6 @@
 {
   "name": "realmeet.sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared typescript libraries for realmeet.app",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "yeisonarango03@gmail.com",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yarango582/realmeet-sdk"
+  },
   "devDependencies": {
     "typescript": "^5.2.2"
   }
